@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbaa4d88af97fde4d9ce8bbea97a9930, type: 3}
+  m_Name: DeepDesert
+  m_EditorClassIdentifier: 
+  sand:
+  - {fileID: 11400000, guid: 8bb80e3469c70154fbf9d073360cc601, type: 2}
+  - {fileID: 11400000, guid: a998d0ca7d0bd8a4989db15edf75d5b1, type: 2}
+  - {fileID: 11400000, guid: 8be0dfdad5b216c408c3ffbd3b6e5387, type: 2}
+  - {fileID: 11400000, guid: ca14e9109338a4e45a2a88c497156c13, type: 2}
+  - {fileID: 11400000, guid: e5c33744c23a1eb4f89bad70443749aa, type: 2}
+  rock:
+  - {fileID: 11400000, guid: e1738d5f1b7d91c4999b644c40b640ac, type: 2}
+  - {fileID: 11400000, guid: 804774f915b16514f9e187bdf7370510, type: 2}
+  - {fileID: 11400000, guid: a86dc2237da90c34ea00e55f290247e3, type: 2}
+  - {fileID: 11400000, guid: ae2c7b4ee48c0b54b8987d096df57684, type: 2}
+  organics:
+  - {fileID: 11400000, guid: 1477f9db31c8d744e8c3de9d946ff6ea, type: 2}
+  - {fileID: 11400000, guid: ca14e9109338a4e45a2a88c497156c13, type: 2}
+  grass:
+  - {fileID: 11400000, guid: 79aee86b788b6444c9c5802485603196, type: 2}
+  - {fileID: 11400000, guid: 7878cd847e7e0154ebdfd4e9719c0d3a, type: 2}
+  - {fileID: 11400000, guid: 337c4567137675248bd4acadc5c353b4, type: 2}
+  - {fileID: 11400000, guid: 7b66ca3172efc5f46bf7d31d6b9e8610, type: 2}
+  - {fileID: 11400000, guid: 7053b6a4b1d6b20469db4ef22e263d6e, type: 2}
+  - {fileID: 11400000, guid: 2a08fe18a9540414db08c931875769bd, type: 2}
+  coral:
+  - {fileID: 11400000, guid: 536a72f622cc3d149aa57623d25918eb, type: 2}
+  - {fileID: 11400000, guid: ac2c17c8d220c094ea6d5008d02d8be1, type: 2}
+  - {fileID: 11400000, guid: c2889486ffbc0e14eb624fe5ad638a61, type: 2}
+  - {fileID: 11400000, guid: 3a809c18d3cdfdc4f8f46c9d26b637f3, type: 2}
+  - {fileID: 11400000, guid: d03d840ad3cb59d4bb8c9556c45854a0, type: 2}
+  - {fileID: 11400000, guid: e7f37d9e7ac646142b8bd62ab05cff30, type: 2}
+  blur:
+  - {fileID: 11400000, guid: 3508d6e254c4c71458bab964ba6983bc, type: 2}
+  - {fileID: 11400000, guid: 97625070665a129459cda7e81c25cd6f, type: 2}

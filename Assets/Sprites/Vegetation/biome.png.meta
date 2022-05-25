@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: b06d42f3d6f16494ab3c6dda7aa9266c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7728166128611100524
+    second: biome_0
+  - first:
+      213: 8098431609191167546
+    second: biome_1
+  - first:
+      213: 5970841371171391660
+    second: biome_2
+  - first:
+      213: -7129995556364647680
+    second: biome_3
+  - first:
+      213: -7615479680633549687
+    second: biome_4
+  - first:
+      213: -1401691231552051585
+    second: biome_5
+  - first:
+      213: 221565670632928161
+    second: biome_6
+  - first:
+      213: 5004769288561460330
+    second: biome_7
+  - first:
+      213: 3579710545296621109
+    second: biome_8
+  - first:
+      213: -8709219935464799351
+    second: biome_9
+  - first:
+      213: -880242361280274037
+    second: biome_10
+  - first:
+      213: -4746669487775592775
+    second: biome_11
+  - first:
+      213: -7022530125298961924
+    second: biome_12
+  - first:
+      213: 8238121070796961225
+    second: biome_13
+  - first:
+      213: 2779609339397785012
+    second: biome_14
+  - first:
+      213: 7461003368624849044
+    second: biome_15
+  - first:
+      213: 494468936256521660
+    second: biome_16
+  - first:
+      213: 3780357399350479961
+    second: biome_17
+  - first:
+      213: -4921545087179707011
+    second: biome_18
+  - first:
+      213: 7891113952167452881
+    second: biome_19
+  - first:
+      213: 4776507367188266412
+    second: biome_20
+  - first:
+      213: -1178684020197242413
+    second: biome_21
+  - first:
+      213: -2850199366315914123
+    second: biome_22
+  - first:
+      213: -2230634346179946234
+    second: biome_23
+  - first:
+      213: -1359818808115857449
+    second: biome_24
+  - first:
+      213: -6964259300400354962
+    second: biome_25
+  - first:
+      213: 4523113846344794794
+    second: biome_26
+  - first:
+      213: 5674494186494906209
+    second: biome_27
+  - first:
+      213: 757444431778532617
+    second: biome_28
+  - first:
+      213: 2409822533218717028
+    second: biome_29
+  - first:
+      213: 699712285115751125
+    second: biome_30
+  - first:
+      213: -6481482213823676971
+    second: biome_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: biome_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fde20ad900c490800000000000000
+      internalID: -7728166128611100524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3672a724a8636070800000000000000
+      internalID: 8098431609191167546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_2
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca880ea9790bcd250800000000000000
+      internalID: 5970841371171391660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_3
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00385cc51da2d0d90800000000000000
+      internalID: -7129995556364647680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_4
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc1a93491605690800000000000000
+      internalID: -7615479680633549687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_5
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f766f8a50413c8ce0800000000000000
+      internalID: -1401691231552051585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_6
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a33f74bdc8231300800000000000000
+      internalID: 221565670632928161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_7
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 2746
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a648d7bc623847540800000000000000
+      internalID: 5004769288561460330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eff1b56cfada130800000000000000
+      internalID: 3579710545296621109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ced3bc92a22780800000000000000
+      internalID: -8709219935464799351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8163a37c30c8c3f0800000000000000
+      internalID: -880242361280274037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be43f2ff31702eb0800000000000000
+      internalID: -4746669487775592775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_12
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17319de06fa8e90800000000000000
+      internalID: -7022530125298961924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_13
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57389677fa35270800000000000000
+      internalID: 8238121070796961225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_14
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c92997f7239620800000000000000
+      internalID: 2779609339397785012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_15
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1984
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49080ee980fca8760800000000000000
+      internalID: 7461003368624849044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50902b0e4bcd600800000000000000
+      internalID: 494468936256521660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c0e488607867430800000000000000
+      internalID: 3780357399350479961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7da59491d823bbb0800000000000000
+      internalID: -4921545087179707011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_19
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e111a45ed28d60800000000000000
+      internalID: 7891113952167452881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_20
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadfa48b420994240800000000000000
+      internalID: 4776507367188266412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_21
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c6b9e02974afe0800000000000000
+      internalID: -1178684020197242413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_22
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c42bff6ce0278d0800000000000000
+      internalID: -2850199366315914123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_23
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1222
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609982c61e13b01e0800000000000000
+      internalID: -2230634346179946234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fb57aff3f02de0800000000000000
+      internalID: -1359818808115857449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692de3801bf95f90800000000000000
+      internalID: -6964259300400354962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_26
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2480a241455ce30800000000000000
+      internalID: 4523113846344794794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_27
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f4c0ad56adfbe40800000000000000
+      internalID: 5674494186494906209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_28
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc14592bbf28a00800000000000000
+      internalID: 757444431778532617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_29
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dcb3083d8617120800000000000000
+      internalID: 2409822533218717028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_30
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1d47bd90e5b900800000000000000
+      internalID: 699712285115751125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biome_31
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 460
+        width: 620
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf60354462d06a0800000000000000
+      internalID: -6481482213823676971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      biome_19: 7891113952167452881
+      biome_21: -1178684020197242413
+      biome_27: 5674494186494906209
+      biome_25: -6964259300400354962
+      biome_5: -1401691231552051585
+      biome_12: -7022530125298961924
+      biome_20: 4776507367188266412
+      biome_15: 7461003368624849044
+      biome_16: 494468936256521660
+      biome_11: -4746669487775592775
+      biome_17: 3780357399350479961
+      biome_3: -7129995556364647680
+      biome_24: -1359818808115857449
+      biome_6: 221565670632928161
+      biome_31: -6481482213823676971
+      biome_28: 757444431778532617
+      biome_9: -8709219935464799351
+      biome_8: 3579710545296621109
+      biome_26: 4523113846344794794
+      biome_13: 8238121070796961225
+      biome_0: -7728166128611100524
+      biome_2: 5970841371171391660
+      biome_22: -2850199366315914123
+      biome_18: -4921545087179707011
+      biome_14: 2779609339397785012
+      biome_1: 8098431609191167546
+      biome_23: -2230634346179946234
+      biome_10: -880242361280274037
+      biome_7: 5004769288561460330
+      biome_30: 699712285115751125
+      biome_4: -7615479680633549687
+      biome_29: 2409822533218717028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
